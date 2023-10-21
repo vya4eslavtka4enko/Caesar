@@ -19,3 +19,4 @@ while answer!='n':
     direction=input("Type 'decode' or 'encode'   ")
     caesar(text,shift,direction)
     answer=input('Do you want repeat yes or no y/n ')
+    
